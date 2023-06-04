@@ -5,3 +5,4 @@ This project starts with the downloading of the dataset from kaggle. Tis was an 
 * dim_rooms: room class, room id
 * fact_aggerated_booking:check in date, property id, room category, successful booking, capacity
 * fact_booking: no guest, ratings given, property id, booking date, booking id, booking platform, booking status, check in date, room category, revenue generated, revenue relized
+# key Matrix using DAX
